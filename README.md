@@ -2,6 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-UI-orange?style=for-the-badge&logo=gradio&logoColor=white)
+
 A Gradio-based web interface to compare responses from multiple LLM providers simultaneously.
 
 ![llm-assemble-meme](llm-assemble-meme.png)
